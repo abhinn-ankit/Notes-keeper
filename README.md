@@ -1,5 +1,3 @@
-# CSYE 6225 - Spring 2019
-
 ## Technology Stack
 ### 1. Operating System
 * Linux based Operating System - Ubuntu
